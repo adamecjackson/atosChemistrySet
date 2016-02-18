@@ -1,4 +1,4 @@
-baseurl = "http://xp-chemistry-set.cfapps.io/"
+baseurl = "http://xp-chemistry-set.apps.eu01.cf.canopy-cloud.com"
 languageCode = "en-gb"
 title = "Canopy Chemistry Set for XP Teams"
 theme = "bootie-docs"
