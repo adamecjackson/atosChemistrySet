@@ -1,0 +1,10 @@
+baseurl = "http://xp-chemistry-set.cfapps.io/"
+languageCode = "en-gb"
+title = "Canopy Chemistry Set for XP Teams"
+theme = "bootie-docs"
+copyright = "Copyright (c) 2016, Canopy Cloud; All rights reserved."
+
+[params]
+	description = "Knowledge by Experimentation"
+	mainMenu = ["XP","People","Process","Tooling","Reading"]
+	noCategoryLink = true
