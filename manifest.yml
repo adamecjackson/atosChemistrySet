@@ -1,0 +1,7 @@
+---
+applications:
+- name: chemistryset
+  memory: 256M
+  instances: 1
+  host: chemistryset
+  path: public/
