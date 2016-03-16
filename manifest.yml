@@ -3,6 +3,6 @@ applications:
 - name: chemistryset4
   memory: 256M
   instances: 1
-  host: chemistryset
+  host: chemistryset-aj
   path: public/
   space: ajdev
