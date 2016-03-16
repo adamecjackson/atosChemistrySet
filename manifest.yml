@@ -1,6 +1,6 @@
 ---
 applications:
-- name: chemistryset
+- name: chemistryset4
   memory: 256M
   instances: 1
   host: chemistryset
